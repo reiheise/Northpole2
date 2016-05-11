@@ -1,1 +1,4 @@
-# Northpole2
+NorthPole
+=========
+
+Altimeter and Compass for the Pebble Smartwatch
